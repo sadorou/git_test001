@@ -2,4 +2,4 @@
 
 echo "base_b";
 echo "a4";
-echo "b6";
+echo "b7";
